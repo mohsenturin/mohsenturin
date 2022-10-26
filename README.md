@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohsenturin
 - 👀 I’m interested in pc world
-- 🌱 I’m currently learning webdesin-ui ux - 
+- 🌱 I’m currently learning webdesign-ui-graphic
 .
 
 <!---
